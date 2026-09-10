@@ -1,0 +1,3 @@
+# Exact Login Reference Verification
+
+The local preview shows the supplied login image unchanged as the full login canvas. The visible artwork includes the SkillSwap mark, lavender wave fields, Programming, Design, Photography, Music, Languages, and Tech chips, the central exchange arrows, the Learn from others / Teach what you know message, open-book illustration, and the embedded welcome card. Existing functional hotspots remain exposed to the browser as Log in, Create account, Forgot password, Continue securely, and Continue with Manus sign-in controls. The desktop framing now shows the full supplied composition without side cropping. No image pixels were edited.

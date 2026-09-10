@@ -1,0 +1,5 @@
+# PeerLearn reference visual findings
+
+The provided reference uses a very light, airy landing composition with a near-white lavender/mint background and a large, thin elliptical orbit line centered behind the content. The primary content is a compact white rounded card centered in the viewport, with a small uppercase monospace label, dark indigo headline, muted supporting copy, and a dark rounded pill CTA. The card uses a soft diffuse shadow and generous whitespace rather than a dense dashboard treatment. The overall visual language is calm, minimal, cool-toned, and centered, with subtle motion/loading cues and very restrained borders.
+
+For SkillSwap, preserve all current functionality but move the visual system toward cool lavender/ice backgrounds, dark indigo/navy text, white elevated surfaces, thin low-contrast borders, rounded pills, and orbit-like decorative lines. For Pippa, use the same bright cool palette with a clearly separated white chat surface, lavender header tint, colorful accent avatar, brighter message bubbles, and high-contrast controls.
